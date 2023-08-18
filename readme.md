@@ -1,12 +1,12 @@
 # Rick and morty human database backend.
 
 ## Correr el Servidor usando:
-    npm install 
+    npm install o npm i
     npm run dev 
 
 ## Github
-    Fronted: https://github.com/Raulmoyano2970/RickAndMorty-Fronted 
-    Backend: https://github.com/Raulmoyano2970/RickAndMorty-Backend
+ Fronted: https://github.com/Raulmoyano2970/RickAndMorty-Fronted 
+ Backend: https://github.com/Raulmoyano2970/RickAndMorty-Backend
 
 ## Información sobre metadatos utilizados.
     {
